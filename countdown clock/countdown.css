@@ -93,7 +93,7 @@
     position: absolute;
     right:10% ;
     bottom: 0;
-    animation: rocket 4s linear infinite;
+    animation: rocket 5s linear infinite;
 }
 @keyframes rocket{
     0%{
